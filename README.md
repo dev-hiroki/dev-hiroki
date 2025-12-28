@@ -1,8 +1,8 @@
-# Welcome to My GitHub Profile! 👋
+# About Me
+- Reverse Engineering Developer
+- Learning C++
+- **Owner** of [Nature Client](https://natureclient.xyz) and [Solstice Updated](https://discord.gg/XebNbfqkq9)
 
-## 🚀 About Me
-- 💻 Reverse Engineering Developer
-- 🌱 Learning C++
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-hiroki&theme=default)
 
-## 📊 GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dev-hiroki&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-hiroki&theme=default)
