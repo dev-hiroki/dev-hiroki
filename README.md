@@ -1,7 +1,7 @@
 # About Me
 - Reverse Engineering Developer
 - Learning C++
-- **Owner** of [Nature Client](https://natureclient.xyz) and [Solstice Updated](https://discord.gg/XebNbfqkq9)
+- **Owner** of [Nature Client](https://natureclient.xyz) and [Solstice Updated](https://discord.gg/XebNbfqkq9) (Solstice updated was dead lol)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-hiroki&theme=default)
 
